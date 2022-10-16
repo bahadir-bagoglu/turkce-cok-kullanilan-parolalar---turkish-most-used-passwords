@@ -4,13 +4,11 @@
 
 Türk kullanıcıların parola seçimlerinin analizi için yapılmış bir çalışmadır. İnternete sızan e-posta ve parola verilerinin içindeki Türkçe kelimelerin tespit edilmesi metodu ile gerçekleştirilmiştir.
 
-Çalışma ile ilgili detaylar için aşağıdaki blog yazılarını okuyabilirsiniz: 
+Çalışma ile ilgili detaylar için kaynak aldığım aşağıdaki blog yazılarından okuyabilirsiniz: 
 
 [https://utkusen.com/blog/rockyou-wordlistindeki-turkce-parolalarin-tespiti.html](https://utkusen.com/blog/rockyou-wordlistindeki-turkce-parolalarin-tespiti.html)
 
 [https://utkusen.com/blog/turkce-wordlist-calismasinda-ikinci-faz.html](https://utkusen.com/blog/turkce-wordlist-calismasinda-ikinci-faz.html)
-
-Katkıda bulunmak için `CONTRIBUTING.md` dosyasına göz atabilirsiniz.
 
 ### Dosyalar
 
@@ -26,16 +24,9 @@ Katkıda bulunmak için `CONTRIBUTING.md` dosyasına göz atabilirsiniz.
 
 **corpus.txt** Türkçe kelime derlemidir. Sızan veriler içerisinde burada yer alan kelimeler aranmıştır.
 
-### Katkıda Bulunanlar
+### kaynak
 
-Gönüllü desteklerinden ötürü teşekkür ederim:
-
-- Ahmet Külekçi - [https://twitter.com/ahmetskulekci](https://twitter.com/ahmetskulekci)
-
-- Murat Öztürk
-
-- Doğukan Uçak [https://github.com/doggukan](https://github.com/doggukan)
-
+@utkusen 
 
 ## Analiz Edilen Veriler
 
@@ -104,8 +95,3 @@ Aşağıdaki veriler Türkiye kaynaklı platformlardan sızdığı için temizle
 | 5816146      | sochic-uyeler.csv       |
 | 106192828      | gezginler.com.sql       |
 
-# Yapılan Araştırmalar
-
-Aşağıdaki araştırmalar Türkçe wordlist projesinden faydalanılarak yapılmıştır.
-
-- Türkiye taraftar sayısı analizi [https://github.com/utkusen/turkce-wordlist/blob/master/analizler/taraftar.md](https://github.com/utkusen/turkce-wordlist/blob/master/analizler/taraftar.md)
